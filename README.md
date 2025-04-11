@@ -13,5 +13,3 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&locale=en" alt="KiLOCentriX" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&" alt="KiLOCentriX" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiLOCentriX&show_icons=true&locale=en&layout=compact" alt="KiLOCentriX" /></p>
