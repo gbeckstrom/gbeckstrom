@@ -16,4 +16,3 @@
 
 <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/KiLOCentriX/KiLOCentriX?color=black&logo=github" />
-</p>
