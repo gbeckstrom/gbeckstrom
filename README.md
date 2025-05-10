@@ -13,3 +13,7 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical&include_all_commits=true">
+
+<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+</p>
