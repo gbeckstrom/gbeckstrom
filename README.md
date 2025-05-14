@@ -12,6 +12,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
+<h2>GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical&include_all_commits=true">
 
 <p align="right">  
