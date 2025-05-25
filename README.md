@@ -15,7 +15,7 @@
 <h2>📊 Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical&include_all_commits=true">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical&include_all_commits=true)
 
 
 <p align="right">  
