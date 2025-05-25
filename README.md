@@ -15,7 +15,7 @@
 <h2>📊 Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical)
 
 
 
