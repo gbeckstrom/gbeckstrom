@@ -14,6 +14,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 <h2>📊 Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical&include_all_commits=true">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
 
 <p align="right">  
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=plastic&label=Views"><img>
