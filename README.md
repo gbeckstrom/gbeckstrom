@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Gabriel aka KiLO</h1>
 
-🖥️ Programmer
+🖥️ Programmer\
 💾 Developer
 
 Just looking for a community of developers to talk to 🙂
