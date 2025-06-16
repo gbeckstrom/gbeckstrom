@@ -22,7 +22,7 @@ Just looking for a community of developers to talk to 🙂
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h2>📊 Github Stats</h2>
+## 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical)
