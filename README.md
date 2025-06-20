@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Gabriel aka KiLO</h1>
 
 <div align="center">
-    <img src="Readme_images/KiLO_Banner.png" alt="KiLO Logo">
+    <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Logo">
 </div>
 
 🖥️ Programmer\
