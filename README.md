@@ -8,7 +8,9 @@
 🖥️ <strong>Programmer</strong> | 💾 <strong>Developer</strong> | 🎮 <strong>Game Systems Architect</strong>  
 </p>
 
+<p align="center">
 Just looking for a community of developers to talk to 🙂
+</p>
 
 ## 🧰 Toolbox
 
