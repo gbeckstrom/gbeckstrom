@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-🖥️ <strong>Programmer</strong> | 💾 <strong>Developer</strong> | 🎮 <strong>Game Systems Architect</strong>  
+    🖥️ <strong>Programmer</strong> | 💾 <strong>Developer</strong> | 🎮 <strong>Game Systems Architect</strong>  
 </p>
 
 <p align="center">
@@ -41,11 +41,13 @@ Just looking for a community of developers to talk to 🙂
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+</p>
 
 
 <p align="center">
