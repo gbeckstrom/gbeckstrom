@@ -45,7 +45,8 @@ Just looking for a community of developers to talk to 🙂
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
 
-![Quote](https://img.shields.io/badge/quote-What%20we%20do%20now%20echoes%20in%20eternity.-blueviolet?style=for-the-badge)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiLOCentriX&theme=react-dark)
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
