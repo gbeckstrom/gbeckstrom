@@ -1,4 +1,7 @@
-<h1 align="center">Hi! I'm Gabriel — also known as <span style="color:#6495ED;">KiLO</span> 👾</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFFD4&width=435&lines=Hi!+I'm+Gabriel;—+also+known+as;KiLO"/>
+    Hi! I'm Gabriel — also known as <span style="color:#6495ED;">KiLO</span> 👾
+</h1>
 
 <div align="center">
     <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Banner">
@@ -42,8 +45,6 @@ Just looking for a community of developers to talk to 🙂
   <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFFD4&width=435&lines=What+we+do+now+echoes+in+eternity.;Code+is+my+empire."/>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
