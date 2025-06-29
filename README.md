@@ -9,7 +9,7 @@
 
 Just looking for a community of developers to talk to 🙂
 
-## 🚀 Languages and Tools I Use
+## 🧰 Toolbox
 
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
