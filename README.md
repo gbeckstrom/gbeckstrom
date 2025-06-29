@@ -46,7 +46,7 @@ Just looking for a community of developers to talk to 🙂
 </p>
 
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/apitype=horazontal&?theme=dark">
 </p>
 
 
