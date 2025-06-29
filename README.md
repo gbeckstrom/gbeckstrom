@@ -45,7 +45,7 @@ Just looking for a community of developers to talk to 🙂
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiLOCentriX&theme=react-dark&area=true&hide_border=true)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <p align="center">
