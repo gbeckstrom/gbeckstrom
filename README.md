@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Gabriel — also known as <span style="color:#6495ED;">KiLO</span> 👾</h1>
 
 <div align="center">
-    <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Banner" width="100%" height="75%">
+    <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Banner" width="100%" height="50%">
 </div>
 
 🖥️ Programmer\
