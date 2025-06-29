@@ -34,9 +34,16 @@ Just looking for a community of developers to talk to 🙂
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical">
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiLOCentriX&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiLOCentriX&layout=compact&theme=radical" width="48%" />
+</p>
 
 
 
