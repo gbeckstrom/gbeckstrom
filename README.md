@@ -4,8 +4,9 @@
     <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Banner">
 </div>
 
-🖥️ Programmer\
-💾 Developer
+<p align="center">
+🖥️ <strong>Programmer</strong> | 💾 <strong>Developer</strong> | 🎮 <strong>Game Systems Architect</strong>  
+</p>
 
 Just looking for a community of developers to talk to 🙂
 
