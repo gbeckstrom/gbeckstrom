@@ -45,6 +45,7 @@ Just looking for a community of developers to talk to 🙂
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
 
+![3D GitHub Contribution Canvas](https://github-contributions-canvas.vercel.app/api?username=KiLOCentriX&color=0f0f0f&radius=12&size=auto&bg=1e1e1e)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
