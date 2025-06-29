@@ -45,8 +45,6 @@ Just looking for a community of developers to talk to 🙂
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiLOCentriX&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
