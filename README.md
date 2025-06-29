@@ -43,6 +43,8 @@ Just looking for a community of developers to talk to 🙂
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiLOCentriX&theme=radical" width="48%" />
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFFD4&width=435&lines=What+we+do+now+echoes+in+eternity.;Code+is+my+empire."/>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
     <img src="https://badges.pufler.dev/visits/KiLOCentriX/KiLOCentriX?color=black&logo=github" />
