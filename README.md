@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Just looking for a community of developers to talk to 🙂
+Coding harder than last time 🙂
 </p>
 
 ## 🧰 Toolbox
