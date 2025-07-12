@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Coding harder than last time 🙂
+Coding harder than last time 😎
 </p>
 
 ## 🧰 Toolbox
