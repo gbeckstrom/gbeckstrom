@@ -52,8 +52,8 @@ Coding harder than last time 😎
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
-  <img src="https://badges.pufler.dev/visits/KiLOCentriX/KiLOCentriX?color=black&logo=github" />
-
+ <!-- <img src="https://badges.pufler.dev/visits/KiLOCentriX/KiLOCentriX?color=black&logo=github" />
+--->
 
 </p>
 
