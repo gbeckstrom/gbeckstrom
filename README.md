@@ -1,6 +1,5 @@
 <h1 align="center">
-    Hi! I'm Gabriel — also known as <span style="color:#6495ED;">KiLO</span> 👾
-</h1>
+    Hi! I'm Gabriel</h1>
 
 <div align="center">
     <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Banner">
