@@ -1,10 +1,6 @@
 <h1 align="center">
     Hi! I'm Gabriel</h1>
 
-<div align="center">
-    <img src="Readme_images/KiLO_Banner_02.png" alt="KiLO Banner">
-</div>
-
 <p align="center">
     🖥️ <strong>Programmer</strong> | 💾 <strong>Developer</strong> | 🎮 <strong>Game Systems Architect</strong>  
 </p>
