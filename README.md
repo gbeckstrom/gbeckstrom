@@ -46,6 +46,6 @@ Coding harder than last time 😎
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KiLOCentriX&style=flat-square&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=gbeckstrom&style=flat-square&color=blue" />
 </p>
 
