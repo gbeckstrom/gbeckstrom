@@ -37,7 +37,7 @@ Coding harder than last time 😎
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?user=gbeckstrom&show_icons=true&theme=radical" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gbeckstrom&show_icons=true&theme=radical" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbeckstrom&theme=radical" width="48%" />
 </p>
 
