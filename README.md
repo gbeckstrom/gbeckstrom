@@ -34,13 +34,6 @@ Coding harder than last time 😎
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gbeckstrom&show_icons=true&theme=radical" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbeckstrom&theme=radical" width="48%" />
-</p>
-
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
